@@ -18,15 +18,15 @@ docker image based off of ubuntu:18.04 for TP-Link Omada Controller to control T
 &#xD;
 ** Please set all ports prior to first startup. **&#xD;
 &#xD;
-** I've set non-standard ports as this software by default conflicts with Unifi ports **</Overview>
+** I've set non-standard ports as this software by default conflicts with Unifi Controller ports **</Overview>
   <Category/>
   <WebUI>https://[IP]:[PORT:18043]/login</WebUI>
   <TemplateURL/>
-  <Icon>https://www.tp-link.com/assets/images/icon/favicon-152px.png</Icon>
+  <Icon>https://raw.githubusercontent.com/benhedrington/hedrington-unraid-docker-templates/main/hedrington-unraid-docker-templates/omada-controller.png</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
-  <DateInstalled>1605704977</DateInstalled>
+  <DateInstalled>1605705566</DateInstalled>
   <DonateText/>
   <DonateLink/>
   <Description>mbentley/omada-controller&#xD;
