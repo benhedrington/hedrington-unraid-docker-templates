@@ -7,8 +7,8 @@
   <MyIP/>
   <Shell>bash</Shell>
   <Privileged>false</Privileged>
-  <Support>https://hub.docker.com/r/mbentley/omada-controller/</Support>
-  <Project/>
+  <Support>https://forums.unraid.net/topic/99155-support-omada-controller/</Support>
+  <Project>https://hub.docker.com/r/mbentley/omada-controller</Project>
   <Overview>mbentley/omada-controller&#xD;
 By mbentley&#xD;
 &#xD;
@@ -26,7 +26,7 @@ docker image based off of ubuntu:18.04 for TP-Link Omada Controller to control T
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
-  <DateInstalled>1605796015</DateInstalled>
+  <DateInstalled>1605839113</DateInstalled>
   <DonateText/>
   <DonateLink/>
   <Description>mbentley/omada-controller&#xD;
