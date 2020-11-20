@@ -34,7 +34,7 @@ By mbentley&#xD;
 &#xD;
 Docker image to run TP-Link Omada Controller&#xD;
 &#xD;
-docker image based off of ubuntu:18.04 for TP-Link Omada Controller to control TP-Link Omada EAP Series Wireless Access Points&#xD;
+docker image based off of ubuntu 18.04 for TP-Link Omada Controller to control TP-Link Omada EAP Series Wireless Access Points&#xD;
 &#xD;
 ** Please set all ports prior to first startup. **&#xD;
 &#xD;
