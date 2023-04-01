@@ -14,7 +14,7 @@
   <WebUI>https://[IP]:[PORT:18043]/login</WebUI>
   <TemplateURL/>
   <Icon>https://raw.githubusercontent.com/benhedrington/hedrington-unraid-docker-templates/main/hedrington-unraid-docker-templates/omada-controller.png</Icon>
-  <ExtraParams/>
+  <ExtraParams>--ulimit nofile=4096:8192</ExtraParams>
   <PostArgs/>
   <CPUset/>
   <DateInstalled>1606510831</DateInstalled>
