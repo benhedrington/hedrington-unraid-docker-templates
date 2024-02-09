@@ -65,9 +65,9 @@
     </Variable>
   </Environment>
   <Labels/>
-  <Config Name="Host Path 1" Target="/opt/tplink/EAPController/data" Default="" Mode="rw,slave" Description="Container Path: /opt/tplink/EAPController/data" Type="Path" Display="always" Required="false" Mask="false">/mnt/disks/extrassd/docker-settings/omada-controller/data/</Config>
-  <Config Name="Host Path 2" Target="/opt/tplink/EAPController/work" Default="" Mode="rw,slave" Description="Container Path: /opt/tplink/EAPController/work" Type="Path" Display="always" Required="false" Mask="false">/mnt/disks/extrassd/docker-settings/omada-controller/work/</Config>
-  <Config Name="Host Path 3" Target="/opt/tplink/EAPController/logs" Default="" Mode="rw,slave" Description="Container Path: /opt/tplink/EAPController/logs" Type="Path" Display="always" Required="false" Mask="false">/mnt/disks/extrassd/docker-settings/omada-controller/logs/</Config>
+  <Config Name="Host Path 1" Target="/opt/tplink/EAPController/data" Default="" Mode="rw,slave" Description="Container Path: /opt/tplink/EAPController/data" Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/omada-controller/data/</Config>
+  <Config Name="Host Path 2" Target="/opt/tplink/EAPController/work" Default="" Mode="rw,slave" Description="Container Path: /opt/tplink/EAPController/work" Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/omada-controller/work/</Config>
+  <Config Name="Host Path 3" Target="/opt/tplink/EAPController/logs" Default="" Mode="rw,slave" Description="Container Path: /opt/tplink/EAPController/logs" Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/omada-controller/logs/</Config>
   <Config Name="MANAGE_HTTPS_PORT" Target="MANAGE_HTTPS_PORT" Default="" Mode="" Description=" Default: 8043" Type="Variable" Display="always" Required="false" Mask="false">18043</Config>
   <Config Name="MANAGE_HTTP_PORT" Target="MANAGE_HTTP_PORT" Default="" Mode="" Description="Default: 8088" Type="Variable" Display="always" Required="false" Mask="false">18088</Config>
   <Config Name="PORTAL_HTTPS_PORT" Target="PORTAL_HTTPS_PORT" Default="" Mode="" Description="Default: 8843" Type="Variable" Display="always" Required="false" Mask="false">18843</Config>
