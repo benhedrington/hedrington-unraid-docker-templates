@@ -9,7 +9,7 @@
   <Privileged>false</Privileged>
   <Support>https://forums.unraid.net/topic/99155-support-omada-controller/</Support>
   <Project>https://hub.docker.com/r/mbentley/omada-controller</Project>
-  <Overview>Docker image to run TP-Link Omada SDN Controller to control TP-Link Omada EAP Series Wireless Access Points -- tplink, omada, sdn, ubuntu 18.04</Overview>
+  <Overview>Docker image to run TP-Link Omada SDN Controller to control TP-Link Omada EAP Series Wireless Access Points -- tplink, omada, sdn</Overview>
   <Category>Network:Management</Category>
   <WebUI>https://[IP]:[PORT:18043]/login</WebUI>
   <TemplateURL/>
